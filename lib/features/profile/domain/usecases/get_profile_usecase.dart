@@ -1,0 +1,3 @@
+class GetProfileUsecase {
+  const GetProfileUsecase();
+}

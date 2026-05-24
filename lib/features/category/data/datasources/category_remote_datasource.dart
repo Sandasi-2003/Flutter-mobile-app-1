@@ -1,0 +1,3 @@
+class CategoryRemoteDataSource {
+  const CategoryRemoteDataSource();
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 118,540 C 118,325.5 293.5,210 508,210 C 781.0,210 898,391.5 898,540 C 898,777.6 718.6,870 508,870 C 235.0,870 118,688.5 118,540 Z" fill="url(#softGrad)" opacity="1"/>
+<g transform="translate(302 334) scale(1.55)" filter="url(#smallShadow)">
+ <rect x="0" y="0" width="260" height="164" rx="26" fill="#FF4D4F"/>
+ <rect x="0" y="42" width="260" height="34" fill="#1F2937" opacity="0.9"/>
+ <rect x="32" y="106" width="92" height="14" rx="7" fill="#FFFFFF" opacity="0.92"/>
+ <rect x="32" y="130" width="156" height="12" rx="6" fill="#FFFFFF" opacity="0.55"/>
+ <circle cx="204" cy="120" r="22" fill="#FBBF24" opacity="0.95"/>
+ <circle cx="224" cy="120" r="22" fill="#FFFFFF" opacity="0.45"/>
+</g>
+<g transform="translate(442 158) scale(0.95)">
+ <rect x="45" y="92" width="170" height="142" rx="28" fill="#FF4D4F"/>
+ <path d="M83 96V72C83 44 103 24 130 24C157 24 177 44 177 72V96" stroke="#1F2937" stroke-width="22" stroke-linecap="round" fill="none" opacity="0.92"/>
+ <circle cx="130" cy="154" r="18" fill="#FFFFFF"/>
+ <rect x="120" y="166" width="20" height="42" rx="10" fill="#FFFFFF"/>
+</g><circle cx="690" cy="650" r="72" fill="#FF4D4F"/><path d="M657.6 648.56 L681.36 673.04 L727.44 626.96" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M252 672 L256.5 685.5 L270 690 L256.5 694.5 L252 708 L247.5 694.5 L234 690 L247.5 685.5 Z" fill="#FBBF24"/><circle cx="770" cy="290" r="16" fill="#FF4D4F" opacity="0.5"/>
+
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+<rect width="1024" height="1024" rx="220" fill="#FF4D4F"/>
+<g transform="translate(312 260) scale(1.35)">
+  <path d="M94 58H206C224 58 239 73 239 91V222C239 241 224 256 205 256H95C76 256 61 241 61 222V91C61 73 76 58 94 58Z" fill="#FFFFFF"/>
+  <path d="M104 82C104 45 124 23 150 23C176 23 196 45 196 82" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M179 132C169 122 157 117 144 118C117 120 96 143 98 171C100 199 123 219 151 217C164 216 176 210 185 201" stroke="#FF4D4F" stroke-width="27" stroke-linecap="round" fill="none"/>
+  <circle cx="194" cy="167" r="15" fill="#FF4D4F"/>
+</g><text x="512" y="760" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800" fill="#FFFFFF">Clarke</text>
+</svg>

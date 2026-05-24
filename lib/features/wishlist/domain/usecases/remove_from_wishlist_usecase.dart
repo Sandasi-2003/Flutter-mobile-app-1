@@ -1,0 +1,3 @@
+class RemoveFromWishlistUsecase {
+  const RemoveFromWishlistUsecase();
+}

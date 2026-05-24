@@ -1,0 +1,3 @@
+class GetProductReviewsUsecase {
+  const GetProductReviewsUsecase();
+}

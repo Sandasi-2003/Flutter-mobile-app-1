@@ -1,0 +1,3 @@
+class ProductDetailsState {
+  const ProductDetailsState();
+}

@@ -1,0 +1,3 @@
+class WishlistState {
+  const WishlistState();
+}

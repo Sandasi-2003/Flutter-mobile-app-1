@@ -1,0 +1,3 @@
+class WishlistRemoteDataSource {
+  const WishlistRemoteDataSource();
+}

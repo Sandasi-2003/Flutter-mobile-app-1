@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 117,555 C 117,340.5 294.75,225 512,225 C 788.5,225 907,406.5 907,555 C 907,792.6 725.3,885 512,885 C 235.5,885 117,703.5 117,555 Z" fill="url(#softGrad)" opacity="1"/><g stroke="#FF4D4F" stroke-width="24" stroke-linecap="round" fill="none"><path d="M320 404C427 302 596 302 704 404" opacity="0.25"/><path d="M382 474C462 408 562 408 642 474" opacity="0.48"/><path d="M446 546C486 518 538 518 578 546"/><circle cx="512" cy="626" r="20" fill="#FF4D4F" stroke="none"/></g><path d="M348 698H676" stroke="#E5E7EB" stroke-width="22" stroke-linecap="round"/><circle cx="724" cy="332" r="56" fill="#FF4D4F"/><path d="M704.96 312.96 L743.04 351.04 M743.04 312.96 L704.96 351.04" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" fill="none"/>
+
+</svg>

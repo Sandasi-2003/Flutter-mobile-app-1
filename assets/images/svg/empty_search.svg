@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 122,555 C 122,340.5 297.5,225 512,225 C 785.0,225 902,406.5 902,555 C 902,792.6 722.6,885 512,885 C 239.0,885 122,703.5 122,555 Z" fill="url(#softGrad)" opacity="1"/>
+<g transform="translate(330 285) scale(1.35)" stroke="#FF4D4F" stroke-width="20" stroke-linecap="round" fill="none">
+ <circle cx="95" cy="95" r="70"/>
+ <path d="M150 150L225 225"/>
+</g><path d="M330 694H694" stroke="#E5E7EB" stroke-width="22" stroke-linecap="round"/><path d="M414 748H610" stroke="#E5E7EB" stroke-width="18" stroke-linecap="round"/><circle cx="720" cy="338" r="16" fill="#FBBF24" opacity="0.9"/>
+
+</svg>

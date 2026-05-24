@@ -1,0 +1,3 @@
+class CheckoutState {
+  const CheckoutState();
+}

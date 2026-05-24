@@ -1,0 +1,3 @@
+class GetCartUsecase {
+  const GetCartUsecase();
+}

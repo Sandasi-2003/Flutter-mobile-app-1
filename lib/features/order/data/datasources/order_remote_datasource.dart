@@ -1,0 +1,3 @@
+class OrderRemoteDataSource {
+  const OrderRemoteDataSource();
+}

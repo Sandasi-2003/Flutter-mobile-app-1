@@ -1,0 +1,3 @@
+class UpdateProfileUsecase {
+  const UpdateProfileUsecase();
+}

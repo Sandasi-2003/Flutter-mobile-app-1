@@ -1,0 +1,3 @@
+class AddressState {
+  const AddressState();
+}

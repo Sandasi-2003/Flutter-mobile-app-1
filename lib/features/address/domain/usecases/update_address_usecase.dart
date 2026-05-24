@@ -1,0 +1,3 @@
+class UpdateAddressUsecase {
+  const UpdateAddressUsecase();
+}

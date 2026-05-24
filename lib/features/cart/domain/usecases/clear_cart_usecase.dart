@@ -1,0 +1,3 @@
+class ClearCartUsecase {
+  const ClearCartUsecase();
+}

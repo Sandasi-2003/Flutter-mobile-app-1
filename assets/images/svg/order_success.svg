@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 117,555 C 117,340.5 294.75,225 512,225 C 788.5,225 907,406.5 907,555 C 907,792.6 725.3,885 512,885 C 235.5,885 117,703.5 117,555 Z" fill="url(#softGrad)" opacity="1"/>
+<g transform="translate(342 320) scale(1.25)">
+ <path d="M48 84L136 34L224 84V188L136 238L48 188V84Z" fill="#FFE8E8" stroke="#FF4D4F" stroke-width="10" stroke-linejoin="round"/>
+ <path d="M48 84L136 134L224 84" stroke="#FF4D4F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M136 134V238" stroke="#FF4D4F" stroke-width="10" stroke-linecap="round"/>
+ <path d="M89 60L178 111" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" opacity="0.85"/>
+</g><circle cx="512" cy="274" r="94" fill="#FF4D4F"/><path d="M469.7 272.12 L500.72 304.08 L560.88 243.92" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M318 720H706" stroke="#E5E7EB" stroke-width="22" stroke-linecap="round"/><path d="M412 774H612" stroke="#E5E7EB" stroke-width="18" stroke-linecap="round"/><path d="M742 330 L747.0 345.0 L762 350 L747.0 355.0 L742 370 L737.0 355.0 L722 350 L737.0 345.0 Z" fill="#FBBF24"/><path d="M280 284 L284.0 296.0 L296 300 L284.0 304.0 L280 316 L276.0 304.0 L264 300 L276.0 296.0 Z" fill="#FF4D4F"/>
+
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 117,555 C 117,340.5 294.75,225 512,225 C 788.5,225 907,406.5 907,555 C 907,792.6 725.3,885 512,885 C 235.5,885 117,703.5 117,555 Z" fill="url(#softGrad)" opacity="1"/><g filter="url(#shadow)"><rect x="266" y="338" width="492" height="318" rx="48" fill="#FF4D4F"/><rect x="592" y="428" width="196" height="122" rx="36" fill="#E83F42"/><circle cx="656" cy="489" r="22" fill="#FFFFFF"/><path d="M312 404H530" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" opacity="0.65"/></g>
+<g transform="translate(404 146) scale(0.86)">
+ <rect x="45" y="92" width="170" height="142" rx="28" fill="#FF4D4F"/>
+ <path d="M83 96V72C83 44 103 24 130 24C157 24 177 44 177 72V96" stroke="#1F2937" stroke-width="22" stroke-linecap="round" fill="none" opacity="0.92"/>
+ <circle cx="130" cy="154" r="18" fill="#FFFFFF"/>
+ <rect x="120" y="166" width="20" height="42" rx="10" fill="#FFFFFF"/>
+</g>
+
+</svg>

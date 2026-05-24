@@ -1,0 +1,3 @@
+class OrderState {
+  const OrderState();
+}

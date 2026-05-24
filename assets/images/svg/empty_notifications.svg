@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 122,555 C 122,340.5 297.5,225 512,225 C 785.0,225 902,406.5 902,555 C 902,792.6 722.6,885 512,885 C 239.0,885 122,703.5 122,555 Z" fill="url(#softGrad)" opacity="1"/>
+<g transform="translate(365 240) scale(1.25)">
+ <path d="M118 218C91 218 60 213 39 202C55 179 57 155 57 124V103C57 67 83 39 118 39C153 39 179 67 179 103V124C179 155 181 179 197 202C176 213 145 218 118 218Z" fill="#FF4D4F"/>
+ <path d="M95 224C100 240 108 248 118 248C128 248 136 240 141 224" stroke="#1F2937" stroke-width="18" stroke-linecap="round" fill="none"/>
+ <circle cx="168" cy="60" r="24" fill="#FBBF24"/>
+</g><path d="M390 672H634" stroke="#E5E7EB" stroke-width="22" stroke-linecap="round"/><path d="M434 728H590" stroke="#E5E7EB" stroke-width="18" stroke-linecap="round"/><circle cx="695" cy="294" r="50" fill="#FFE8E8"/><path d="M674 294H716" stroke="#FF4D4F" stroke-width="16" stroke-linecap="round"/>
+
+</svg>

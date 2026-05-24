@@ -1,0 +1,3 @@
+class CancelOrderUsecase {
+  const CancelOrderUsecase();
+}

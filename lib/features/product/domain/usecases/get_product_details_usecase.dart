@@ -1,0 +1,3 @@
+class GetProductDetailsUsecase {
+  const GetProductDetailsUsecase();
+}

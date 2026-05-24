@@ -1,0 +1,3 @@
+class SetDefaultAddressUsecase {
+  const SetDefaultAddressUsecase();
+}

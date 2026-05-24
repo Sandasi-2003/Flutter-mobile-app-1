@@ -1,0 +1,3 @@
+class CartState {
+  const CartState();
+}

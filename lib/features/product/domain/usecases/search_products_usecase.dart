@@ -1,0 +1,3 @@
+class SearchProductsUsecase {
+  const SearchProductsUsecase();
+}

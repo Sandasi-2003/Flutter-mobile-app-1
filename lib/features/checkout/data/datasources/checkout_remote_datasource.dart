@@ -1,0 +1,3 @@
+class CheckoutRemoteDataSource {
+  const CheckoutRemoteDataSource();
+}

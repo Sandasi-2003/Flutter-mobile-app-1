@@ -1,0 +1,3 @@
+class GetHomeDataUseCase {
+  const GetHomeDataUseCase();
+}

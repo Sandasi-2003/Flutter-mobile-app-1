@@ -1,0 +1,3 @@
+class GetWishlistUsecase {
+  const GetWishlistUsecase();
+}

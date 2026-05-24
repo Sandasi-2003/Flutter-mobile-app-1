@@ -1,0 +1,3 @@
+class UpdateCartQuantityUsecase {
+  const UpdateCartQuantityUsecase();
+}

@@ -1,0 +1,3 @@
+class AddressRemoteDataSource {
+  const AddressRemoteDataSource();
+}

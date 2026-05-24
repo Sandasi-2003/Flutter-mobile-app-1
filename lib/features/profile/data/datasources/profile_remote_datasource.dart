@@ -1,0 +1,3 @@
+class ProfileRemoteDataSource {
+  const ProfileRemoteDataSource();
+}

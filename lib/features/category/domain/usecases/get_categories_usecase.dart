@@ -1,0 +1,3 @@
+class GetCategoriesUsecase {
+  const GetCategoriesUsecase();
+}

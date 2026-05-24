@@ -1,0 +1,3 @@
+class PlaceOrderUsecase {
+  const PlaceOrderUsecase();
+}

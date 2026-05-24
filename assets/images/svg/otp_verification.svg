@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity="0.10"/></filter>
+<filter id="smallShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#111827" flood-opacity="0.12"/></filter>
+<linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B6D"/><stop offset="1" stop-color="#FF4D4F"/></linearGradient>
+<linearGradient id="softGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF5F5"/><stop offset="1" stop-color="#FFE2E3"/></linearGradient>
+</defs>
+
+
+<path d="M 132,560 C 132,345.5 303.0,230 512,230 C 778.0,230 892,411.5 892,560 C 892,797.6 717.2,890 512,890 C 246.0,890 132,708.5 132,560 Z" fill="url(#softGrad)" opacity="1"/><g filter="url(#shadow)"><rect x="218" y="248" width="588" height="450" rx="48" fill="#FFFFFF"/><circle cx="512" cy="338" r="70" fill="#FFE8E8"/>
+<g transform="translate(444 270) scale(0.55)">
+ <rect x="45" y="92" width="170" height="142" rx="28" fill="#FF4D4F"/>
+ <path d="M83 96V72C83 44 103 24 130 24C157 24 177 44 177 72V96" stroke="#1F2937" stroke-width="22" stroke-linecap="round" fill="none" opacity="0.92"/>
+ <circle cx="130" cy="154" r="18" fill="#FFFFFF"/>
+ <rect x="120" y="166" width="20" height="42" rx="10" fill="#FFFFFF"/>
+</g>
+<rect x="292" y="468" width="84" height="92" rx="20" fill="#FFF3F3" stroke="#FF4D4F" stroke-width="4"/><rect x="402" y="468" width="84" height="92" rx="20" fill="#FFF3F3" stroke="#FF4D4F" stroke-width="4"/><rect x="512" y="468" width="84" height="92" rx="20" fill="#FFF3F3" stroke="#FF4D4F" stroke-width="4"/><rect x="622" y="468" width="84" height="92" rx="20" fill="#FFF3F3" stroke="#FF4D4F" stroke-width="4"/>
+<rect x="352" y="612" width="320" height="56" rx="28" fill="#FF4D4F"/></g><path d="M750 232 L754.5 245.5 L768 250 L754.5 254.5 L750 268 L745.5 254.5 L732 250 L745.5 245.5 Z" fill="#FBBF24"/>
+
+</svg>

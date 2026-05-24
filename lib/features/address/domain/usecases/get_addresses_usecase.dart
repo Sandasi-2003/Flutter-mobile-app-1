@@ -1,0 +1,3 @@
+class GetAddressesUsecase {
+  const GetAddressesUsecase();
+}
