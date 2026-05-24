@@ -250,7 +250,7 @@ class MockShopData {
 
   static const UserProfile user = UserProfile(
     name: 'Sandasi',
-    email: 'sandasi.howard@example.com',
+    email: 'sandasi@gmail.com',
     phone: '+94 77 123 4567',
     avatar: AppAssets.profileEster,
   );
